@@ -34,6 +34,10 @@ body{
     z-index:0;
 }
 
-.navbar-dark {
-     background-color: #5c2183;
+.navbar-dark{
+    background-color: #5c2183;
+}
+
+.reserve-bg{
+    background-color: #cfb953;
 }
